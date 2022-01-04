@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+/* Video Excursion beginning-------------------------------------------*/
+.phone-video h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.phone-video p , 
+.iphone-excursion p {
+    text-align: center;
+    padding: 40px;
+
+
+
+}
+.phone-video a , 
+.iphone-excursion a {
+    font-size: 16px;
+    color: aquamarine;
+    
+}
+
+.phone-video video {
+    margin: 0 auto;
+    padding-left: 480px;
+}
+
+/* Video Excursion ending--------------------------------------*/
+
+/*---Excusrion guide---beginning------------------------------------------------------------------*/
+.travel-guide h2 {
+  font-family: Verdana;
+  font-weight: 300px;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+.travel-guide p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.travel-guide img {
+   padding-top: 30px;
+    padding-left: 250px;
+}
+
+
+/*---Excursion guide---ending------------------------------------------------------------*/
+
+/*Phone-excursion beginning------------------------------------------------------*/
+.iphone-excursion img {
+    width: 70px;
+    padding-top: 40px;
+    padding-left: 660px;
+    
+}
+
+
+.iphone-excursion h2 {
+    font-family: Verdana;
+    font-weight: 300px;
+    font-size: 42px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.iphone-excursion a {
+     text-align: center;
+     padding-left: 100px;
+}
+
+/*Phone-excursion ending------------------------------------------------------*/
+
+
+/* ------Footer beginning-----------------------------------------------------------------*/
+footer h3 {
+    font-family: Verdana;
+    text-align: right;
+    color: gray;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+/*-------footer ending--------------------------------------------------------------*/
